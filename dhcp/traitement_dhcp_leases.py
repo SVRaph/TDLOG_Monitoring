@@ -3,6 +3,8 @@
 
 import netaddr
 import datetime
+import sqlite3
+
 
 class Lease:
     def __init__(self,ip,mac,start,end,hostname=""):
@@ -57,14 +59,30 @@ def lit(nomfichier):
                     if l[0]=="client-hostname":
                         host=l[1]
                 liste.append(Lease(ip,mac,start,end,host))
-
         return liste
 
+def stock(liste,path):
+    connexion=sqlite3.connect(path)
+    try:
+        connexion.execute('CREATE TABLE usr(ip INT,mac INT,date_start INT,date_end INT,hostname VARCHAR(20))')
+        connexion.commit()
+    except:
+        print "la base existe déjà"
+    for lease in liste:
+        orig=datetime.date(1970,1,1)
+        n=0
+        if (lease.end=='never'):
+            n=-1
+        elif (lease.end>=datetime.date.today()):
+            n=(lease.end-orig).days
+        else:
+            pass
+        connexion.execute('INSERT INTO usr VALUES (?,?,?,?,?)',(int(lease.ip),int(lease.mac),(lease.start-orig).days,n,lease.hostname))
+        connexion.commit()
+        print lease
+        print lease.end
+    connexion.close()
 
 if __name__=='__main__':
     l=lit("logdhcp")
-    for le in l:
-        1==1
-        #print le
-    print l[1]
-    print l[1].start
+    stock(l,'./utilisateurs.sqlite3')
