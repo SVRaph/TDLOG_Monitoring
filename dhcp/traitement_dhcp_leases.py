@@ -4,6 +4,9 @@
 import netaddr
 import datetime
 import sqlite3
+import sys
+
+ORIGINE=datetime.date(1970,1,1)
 
 
 class Lease:
@@ -62,25 +65,34 @@ def lit(nomfichier):
         return liste
 
 def stock(liste,path):
+    debut=(datetime.date(2012,1,1)-ORIGINE).days
     connexion=sqlite3.connect(path)
+    '''La BDD contient la table usr contient les ip/mac/date_start/date_end/hostname
+    les dates se comptent en jours depuis le 1970/1/1, -1 signifie 'never'
+    hostname peut être vide'''
+    #on teste si la base existe déjà, le cas écheant on remplie uniquement avec les données récentes
     try:
         connexion.execute('CREATE TABLE usr(ip INT,mac INT,date_start INT,date_end INT,hostname VARCHAR(20))')
         connexion.commit()
+        print "creation de la base" 
     except:
         print "la base existe déjà"
+        curseur=connexion.cursor()
+        curseur.execute('SELECT max(date_start) as delta FROM usr')
+        debut=curseur.fetchall()
+        debut=debut[0][0]
     for lease in liste:
-        orig=datetime.date(1970,1,1)
         n=0
         if (lease.end=='never'):
             n=-1
-        elif (lease.end>=datetime.date.today()):
-            n=(lease.end-orig).days
-        else:
-            pass
-        connexion.execute('INSERT INTO usr VALUES (?,?,?,?,?)',(int(lease.ip),int(lease.mac),(lease.start-orig).days,n,lease.hostname))
+        elif (lease.end>=datetime.date.today() and (lease.start-ORIGINE).days>=debut):
+            n=(lease.end-ORIGINE).days
+        if n!=0:
+            connexion.execute('INSERT INTO usr VALUES (?,?,?,?,?)',(int(lease.ip),int(lease.mac),(lease.start-ORIGINE).days,n,lease.hostname))
         connexion.commit()
-        print lease
-        print lease.end
+        print>>sys.stderr, lease.start-ORIGINE
+        print>>sys.stderr, lease
+        print>>sys.stderr, lease.end
     connexion.close()
 
 if __name__=='__main__':
