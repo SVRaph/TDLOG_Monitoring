@@ -23,7 +23,7 @@ def str2datetime(d,t):
 def datetime2time(dt):
     return time.mktime(dt.timetuple())
 
-ORIGINE=datetime2time(datetime.datetime(1970,1,1))
+ORIGINE=datetime2time(datetime.datetime(1970,1,1))#=0
 NOW=datetime2time(datetime.datetime.now())
 
 class Lease:
