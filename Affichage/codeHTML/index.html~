@@ -1,0 +1,15 @@
+  <head>
+    <title>Interface</title>
+  </head>
+  <body>
+    |***DHCPsurlereseau***|
+    <b>Arborescence des switch</b>
+    <p>
+      <a href="/switch.html">Plan des switchs</a>
+    </p>
+
+    <b>Log DHCP</b>
+    <p>
+      <a href="/logdhcp.html">Log DHCP</a>
+    </p>
+  </body>
