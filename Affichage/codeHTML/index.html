@@ -29,3 +29,16 @@
     <input type="submit" value="Afficher" name="Afficher">
   </form>
 </p>
+
+<h2>Lancement manuel des scripts</h2>
+<UL>
+  <LI>Test de r&eacuteponse de l'ensemble des switchs du r&eacuteseau. (L'&eacutex&eacutecution peut prendre quelques minutes.)<br><br>
+  <form action="script.html" method="get">
+    <input type="submit" value="Lancer" name="Test_IP_connues">
+  </form>
+  <LI>Test de r&eacuteponse d'une adresse IP. (Le format est le suivant : 4 nombres entre 0 et 255 s&eacutepar&eacutes par des points.)<br>
+    <form action="script.html" method="get">
+      Ping <textarea name="adresseIP" cols="15" rows="1"></textarea><br><br>
+      <input type="submit" value="Lancer" name="ping_IP">
+    </form>
+</UL>

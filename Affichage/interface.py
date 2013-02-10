@@ -8,6 +8,8 @@ import os
 import os.path
 import netaddr
 import time
+import sys
+import subprocess
 
 #------------------------------------------------------------
 # En-tête de page (à mettre au début de chaque nouvelle page)
@@ -75,12 +77,17 @@ class page_index:
             for phrase in code:
                 if "|***DHCPsurlereseau***|" not in phrase:
                     codeHTML+=phrase
+                else:
+                    with open("Scripts/dhcp_rogue.txt",'r') as dhcp_rogue:
+                        presence = dhcp_rogue.readlines()[0][0]
+                        if presence=="1":
+                            codeHTML+='<h2><font color="red">/!\\ Pr&eacutesence d\'un autre DHCP sur le r&eacuteseau /!\\</font></h2>'
         codeHTML+=standard_end
         return codeHTML
 
 
 #--------------------------------------------------
-# Plan des switch
+# Plan des switchs
 
 class page_switch:
     def GET(self):
@@ -92,7 +99,14 @@ class page_switch:
                     codeHTML += phrase
                 else:
                     # Sinon, c'est l'endroit où insérer l'arborescence des switch
-                    codeHTML += sw.switchRacine.afficheHTML("","")
+                    with open("Scripts/switchs_connus_reponse_ping.txt", 'r') as tmp:
+                        tmp = tmp.readlines()
+                        reponse = []
+                        for ligne in tmp:
+                            ligne = ligne.strip('\n')
+                            reponse.append(ligne.split(' '))
+                        sw.routeur.reponseSwitch(reponse)
+                    codeHTML += sw.routeur.afficheHTML("","")
         codeHTML+=standard_end
         return codeHTML
 
@@ -238,6 +252,28 @@ class page_logs:
         codeHTML+= standard_end
         return codeHTML
 
+
+#------------------------------------------------------------
+# Confirmation du lancement manuel des scripts
+
+class page_scripts:
+    def GET(self):
+        codeHTML = standard_title
+        info = web.input()
+        if "Test_IP_connues" in info:
+            codeHTML += "<p>Le script testant les r&eacuteponses de l'ensemble des switchs du r&eacuteseau a bien &eacutet&eacute &eacutex&eacutecut&eacute.<p>"
+            subprocess.call('Scripts/Test_IP_connues')
+        if "ping_IP" in info:
+            if "adresseIP" in info:
+                codeHTML += "<h2>Commande <i>ping " + str(info["adresseIP"]) + "</i></h2><p>"
+                subprocess.call(['Scripts/ping_IP',info["adresseIP"]])
+                with open("Scripts/pingIP.txt",'r') as pingIP:
+                    codeHTML += str(pingIP.readlines()[0].strip('\n')) + "</p>"
+        codeHTML += '<p><a href="index.html">Retour &agrave l\'accueil</a></p>'
+        codeHTML += standard_end
+        return codeHTML
+
+
 #------------------------------------------------------------
 # Lancement du site
 #------------------------------------------------------------
@@ -245,7 +281,8 @@ if __name__ == '__main__':
     urls = (
         "/index.html" , "page_index",
         "/logdhcp.html" , "page_logs",
-        "/switch.html" , "page_switch"
+        "/switch.html" , "page_switch",
+        "/script.html", "page_scripts"
     )
     webapp = web.application(urls, globals() )
     webapp.run()
