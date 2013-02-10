@@ -156,7 +156,7 @@ class page_logs:
 
                 # Sinon, c'est l'endroit où afficher les logs
                 else:
-                    BDD_leases = sqlite3.connect('leases.db')
+                    BDD_leases = sqlite3.connect('Bases_de_donnees/leases.db')
 
                     if "tout" in info:
                         # Affichage des log
