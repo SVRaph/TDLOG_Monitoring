@@ -11,12 +11,21 @@
   <b>S&eacutelectionner les informations &agrave afficher</b>
   <form action="logdhcp.html" method="get">
     <input type="checkbox" name="tout" value="1">tout</input><br>
-    <input type="checkbox" name="IP" value="1">adresse IP</input><br>
+    <input type="checkbox" name="ip" value="1">adresse IP</input><br>
     <input type="checkbox" name="mac" value="1">adresse mac</input><br>
-    <input type="checkbox" name="start" value="1">d&eacutebut d'attribution de l'IP</input><br>
-    <input type="checkbox" name="end" value="1">fin d'attribution de l'IP</input><br>
-    <input type="checkbox" name="host" value="1">nom d'utilisateur</input><br>
+    <input type="checkbox" name="date_start" value="1">d&eacutebut d'attribution de l'IP</input><br>
+    <input type="checkbox" name="date_end" value="1">fin d'attribution de l'IP</input><br>
+    <input type="checkbox" name="hostname" value="1">nom d'utilisateur</input><br>
     <br>
+
+    <b>Quel est le crit&egravere de classement ?</b><br>
+    <input type="radio" name="class" value="0">adresse IP</input><br>
+    <input type="radio" name="class" value="1">adresse mac</input><br>
+    <input type="radio" name="class" value="2">d&eacutebut d'attribution de l'IP</input><br>
+    <input type="radio" name="class" value="3">fin d'attribution de l'IP</input><br>
+    <input type="radio" name="class" value="4">nom d'utilisateur</input><br>
+    <br>
+
     <input type="submit" value="Afficher" name="Afficher">
   </form>
 </p>

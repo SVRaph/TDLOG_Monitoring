@@ -6,7 +6,8 @@ import switch as sw
 import sqlite3
 import os
 import os.path
-
+import netaddr
+import time
 
 #------------------------------------------------------------
 # En-tête de page (à mettre au début de chaque nouvelle page)
@@ -99,6 +100,33 @@ class page_switch:
 #------------------------------------------------------------
 # Affichage des logs
 
+# La base de données leases.db est constituée de
+# (ip INT,mac INT,date_start INT,date_end INT,hostname VARCHAR(20))
+# Attribut de la classe
+att_leases = {"ip":"Adresse IP", "mac":"Adresse mac", "date_start":"Date de d&eacutebut d'attribution de l'IP", "date_end":"Date de fin d'attribution de l'IP", "hostname":"Nom d'utilisateur"}
+
+# Conversion d'un INTtime en STRtime
+def int2time(INTtime):
+    t = time.gmtime(INTtime)
+    year = str(t.tm_year)
+    mon = str(t.tm_mon)
+    if len(mon)<2:
+        mon = "0" + mon
+    day = str(t.tm_mday)
+    if len(day)<2:
+        day = "0" + day
+    hour = str(t.tm_hour)
+    if len(hour)<2:
+        hour = "0" + hour
+    mi = str(t.tm_min)
+    if len(mi)<2:
+        mi = "0" + mi
+    sec = str(t.tm_sec)
+    if len(sec)<2:
+        sec = "0" + sec
+    return year + "/" + mon + "/" + day + " " + hour + ":" + mi + ":" + sec
+
+
 class page_logs:
     def GET(self):
         # Récupération des informations à afficher
@@ -118,26 +146,96 @@ class page_logs:
 
                     if "tout" in info:
                         # Affichage des log
-                        curseur = BDD_leases.cursor().execute("SELECT * FROM leases")
-                        for row in curseur :
-                            codeHTML += str(row) + "<br>"
+                        instruction = "SELECT * FROM leases"
+                        if "class" in info:
+                            if info["class"]=="0":
+                                instruction += " ORDER BY ip"
+                            elif info["class"]=="1":
+                                instruction += " ORDER BY mac"
+                            elif info["class"]=="2":
+                                instruction += " ORDER BY date_start"
+                            elif info["class"]=="3":
+                                instruction += " ORDER BY date_end"
+                            elif info["class"]=="4":
+                                instruction += " ORDER BY hostname"
+                        curseur = BDD_leases.cursor().execute(instruction)
+                        donnees = curseur.fetchall()
+                        codeHTML += '<table border="1" width="100%" cellpadding="1" cellspacing="0">'
+                        codeHTML += "<thead>"
+                        codeHTML += "<tr>"
+                        codeHTML += "<td><b>Adresse IP</b></td>"
+                        codeHTML += "<td><b>Adresse mac</b></td>"
+                        codeHTML += "<td><b>D&eacutebut d'attribution de l'IP</b></td>"
+                        codeHTML += "<td><b>Fin d'attribution de l'IP</b></td>"
+                        codeHTML += "<td><b>Utilisateur</b></td>"
+                        codeHTML += "</tr>"
+                        codeHTML += "</thead>"
+                        codeHTML += "<tbody>"
+                        for ligne in donnees:
+                            codeHTML += "<tr>"
+                            codeHTML += "<td>" + str(netaddr.IPAddress(ligne[0])) + "</td>"
+                            codeHTML += "<td>" + str(netaddr.EUI(ligne[1])) + "</td>"
+                            codeHTML += "<td>" + int2time(ligne[2]) + "</td>"
+                            codeHTML += "<td>" + str(ligne[3]) + "</td>"
+                            codeHTML += "<td>" + ligne[4] + "</td>"
+                            codeHTML += "</tr>"
+                        codeHTML += "</tbody>"
+                        codeHTML += "</table>"
                         curseur.close()
 
                     else:
                         # Génération de la requête SQL
                         instruction = "SELECT "
+                        cles=[]
                         for key in info:
-                            instruction += key + ","
+                            if key!="class":
+                                instruction += key + ","
+                                cles.append(key)
                         instruction = instruction[:-1]
                         instruction += " FROM leases"
+                        if "class" in info:
+                            if info["class"]=="0" and "ip" in info:
+                                instruction += " ORDER BY ip"
+                            elif info["class"]=="1" and "mac" in info:
+                                instruction += " ORDER BY mac"
+                            elif info["class"]=="2" and "date_start" in info:
+                                instruction += " ORDER BY date_start"
+                            elif info["class"]=="3" and "date_end" in info:
+                                instruction += " ORDER BY date_end"
+                            elif info["class"]=="4" and "hostname" in info:
+                                instruction += " ORDER BY hostname"
                         curseur = BDD_leases.cursor().execute(instruction)
-                        
+                        donnees = curseur.fetchall()
+
                         # Affichage des log
-                        for row in curseur :
-                            codeHTML += str(row) + "<br>"
+                        codeHTML += '<table border="1" width="100%" cellpadding="1" cellspacing="0">'
+                        codeHTML += "<thead>"
+                        codeHTML += "<tr>"
+                        for key in cles:
+                            codeHTML += "<td><b>" + att_leases[key] + "</b></td>"
+                        codeHTML += "</tr>"
+                        codeHTML += "</thead>"
+                        codeHTML += "<tbody>"
+                        l = len(donnees[0])
+                        for ligne in donnees:
+                            codeHTML += "<tr>"
+                            for i in xrange(l):
+                                if cles[i]=="ip":
+                                    codeHTML += "<td>" + str(netaddr.IPAddress(ligne[i])) + "</td>"
+                                elif cles[i]=="mac":
+                                    codeHTML += "<td>" + str(netaddr.EUI(ligne[i])) + "</td>"
+                                elif cles[i]=="date_start":
+                                    codeHTML += "<td>" + int2time(ligne[i]) + "</td>"
+                                elif cles[i]=="date_end":
+                                    codeHTML += "<td>" + str(ligne[i]) + "</td>"
+                                elif cles[i]=="hostname":
+                                    codeHTML += "<td>" + ligne[i] + "</td>"
+                            codeHTML += "</tr>"
+                        codeHTML += "</tbody>"
+                        codeHTML += "</table>"
                         curseur.close()
 
-        codeHTML+=standard_end
+        codeHTML+= standard_end
         return codeHTML
 
 #------------------------------------------------------------
