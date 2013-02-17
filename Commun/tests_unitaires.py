@@ -2,8 +2,7 @@
 #encoding: latin1
 
 import sys
-sys.path.append("../dhcp")
-sys.path.append("../dcpp")
+sys.path.append("../Logs")
 
 import outils_dates as o_d
 import traitement_dhcp_leases as t_dhcp
