@@ -2,36 +2,23 @@
 #encoding: latin1
 
 import netaddr
-import datetime
 import sqlite3
 import sys
 import subprocess
-import time
+
+sys.path.append("../Commun")
+from outils_dates import *
 
 
-def str2datetime(d,t):
-    #convertit 2009/12/16,13:38:22 en datetime.date(2009,12,16,13,38,22)
-    if d=="never":
-        return datetime.datetime(2100,1,1)
-    d=d.split('/')
-    t=t.split(':')
-    try:
-        return datetime.datetime(int(d[0]),int(d[1]),int(d[2]),int(t[0]),int(t[1]),int(t[2]))
-    except:
-        print "Probleme conversion des dates : ", s+t
-        return datetime.datetime(1900,1,1)
-def datetime2time(dt):
-    return time.mktime(dt.timetuple())
-
-ORIGINE=datetime2time(datetime.datetime(1970,1,1))#=0
+ORIGINE=0
 NOW=datetime2time(datetime.datetime.now())
 
 class Lease:
     def __init__(self,ip,mac,startd,startt,endd,endt,hostname=""):
         self.ip=netaddr.IPAddress(ip)
         self.mac=netaddr.EUI(mac)
-        self.start=datetime2time(str2datetime(startd,startt))
-        self.end=datetime2time(str2datetime(endd,endt))
+        self.start=str2time(startd+','+startt)
+        self.end=str2time(endd+','+endt)
         self.hostname=hostname
     def __str__(self):
         return str(self.ip)+" <-> "+str(self.mac)
@@ -81,7 +68,7 @@ def lit(nomfichier,nombdd):
     debut=debut[0][0]
     if debut==None:
         debut=ORIGINE
-
+    print 'Debut le ',debut
     #on ouvre le fichier en lecture
     # et on lit les lignes 1 à 1
     with open(nomfichier,'r') as f:
@@ -100,7 +87,7 @@ def lit(nomfichier,nombdd):
             # si on a fini une lease on stocke
             elif l[0] == "}":
                 L=Lease(ip,mac,startd,startt,endd,endt,host)
-                L.insert_lease(curs,debut)# verifie les dates
+                L.insert_lease(curs,debut,debut)# verifie les dates
             #sinon on cherche des données
             elif l[0] == "lease":
                 ip=l[1]
@@ -120,6 +107,10 @@ def lit(nomfichier,nombdd):
 
     conn.commit()
     conn.close()
+
+
+def tests():
+    lit("../dhcp/logdhcp","leases_tests.db")
 
 
 if __name__=='__main__':

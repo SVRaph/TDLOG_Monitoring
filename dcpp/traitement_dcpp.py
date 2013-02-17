@@ -2,38 +2,20 @@
 #encoding: latin1
 
 import netaddr
-import datetime
 import sqlite3
 import sys
 import subprocess
-import time
 
-DICO_MOIS={'Jan':1,'Feb':2,'Mar':3,'Apr':4,'May':5,'Jun':6,'Jul':7,'Aug':8,'Sep':9,'Oct':10,'Nov':11,'Dec':12}
-NOW=datetime.datetime.now()
+sys.path.append("../Commun")
+from outils_dates import *
 
-def str2date(sm,sd,st):
-    #convertit 'Nov' '10' '06:48:54' en datetime.datetime(2012,11,10,6,48,54)
-    try:
-        m=DICO_MOIS[sm]
-        d=int(sd)
-        y=NOW.year
-        if (m>NOW.month):
-            y-=1
-        t=st.split(':')
-        return datetime.datetime(y,m,d,int(t[0]),int(t[1]),int(t[2]))
-    except Exception, ex:
-        print "Probleme conversion des dates : ", sm+" "+sd+" "+st+" : ",ex
-        return datetime.datetime(1900,1,1)
-def datetime2time(dt):
-    return time.mktime(dt.timetuple())
-
-ORIGINE=datetime2time(datetime.datetime(1970,1,1))#=0
+ORIGINE=0
 
 
 class Utilisateur:
     def __init__(self,ip,mois,jour,heure,pseudo="",chambre="",mail=""):
         self.ip=netaddr.IPAddress(ip)
-        self.date_connexion=datetime2time(str2date(mois,jour,heure))
+        self.date_connexion=str2time(mois+' '+jour+','+heure)
         self.pseudo=pseudo
         self.chambre=chambre
         self.mail=mail
@@ -124,11 +106,16 @@ def lit(nomfichier,nombdd):
     conn.commit()
     conn.close()
     
-
-if __name__=='__main__':
+def execute(logFile,bddFile):
     subprocess.call(["rm","tmp"])
-    cmd=["/bin/bash","-c","cat log | grep MyINFO | grep 4413 > tmp"]
+    cmd=["/bin/bash","-c","cat"+logFile+" | grep MyINFO | grep 4413 > tmp"]
     subprocess.Popen(cmd);# on filtre au préalable les logs
     time.sleep(3);# pour attendre la création du fichier tmp
-    l=lit("tmp","utilisateur.db");
+    l=lit("tmp",bddFile);
     subprocess.call(["rm","tmp"]);
+
+def tests():
+    execute("logdcpp","utilisateurs_tests.db")
+        
+if __name__=='__main__':
+    execute("logdcpp","utilisateurs.db")
