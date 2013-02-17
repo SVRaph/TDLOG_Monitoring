@@ -1,0 +1,1318 @@
+Nov 10 06:45:56 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 06:46:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 06:47:50 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:48:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 06:48:54 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 06:49:52 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:51:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 06:51:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 06:51:57 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:53:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 06:54:04 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:54:42 ferriers from 172.24.185.193 at socket 3 hung up (No route to host)
+Nov 10 06:54:42 PID: 4413 Received command from forked_process, type 0x80: $Quit ferriers|$Script user_disconnected ferriers|
+Nov 10 06:56:52 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:57:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 06:57:40 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 06:59:08 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 06:59:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:00:38 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:01:23 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:01:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:03:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:03:36 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:04:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:05:58 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:06:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:06:34 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:08:04 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:08:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:09:32 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:10:12 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:11:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:12:19 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:12:30 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:13:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:14:30 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:15:28 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:15:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:16:45 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:17:17 New connection on socket 3 from user at 172.24.185.193
+Nov 10 07:17:17 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.193|
+Nov 10 07:17:17 PID: 4414 Received command from 172.24.185.193, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ferriers|
+Nov 10 07:17:18 Registered user ferriers logged in from 172.24.185.193
+Nov 10 07:17:18 PID: 4414 Received command from 172.24.185.193, type 0x8: $MyPass ginouettaz|
+Nov 10 07:17:18 PID: 4413 Received command from forked_process, type 0x80: $Hello ferriers|$Script data_arrival ferriers$MyPass ginouettaz|
+Nov 10 07:17:18 PID: 4414 Received command from 172.24.185.193, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ferriers <++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$simon.ferriere@eleves.enpc.fr$2729540810$|
+Nov 10 07:17:18 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ferriers$Version 1,0091|$Script data_arrival ferriers$GetNickList|$Script user_info ferriers 3250133164 172.24.185.193 8 1,0091|$MyINFO $ALL ferriers <++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$simon.ferriere@eleves.enpc.fr$2729540810$|$Script reg_user_connected ferriers|$Script data_arrival ferriers$MyINFO $ALL ferriers <++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$simon.ferriere@eleves.enpc.fr$2729540810$|
+Nov 10 07:17:18 PID: 4414 Received command from 172.24.185.193, type 0x8: $GetINFO bedouin ferriers|$GetINFO ferriers ferriers|$GetINFO mediatek ferriers|$GetINFO Sam ferriers|
+Nov 10 07:17:18 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ferriers$GetINFO bedouin ferriers|$Script data_arrival ferriers$GetINFO ferriers ferriers|$Script data_arrival ferriers$GetINFO mediatek ferriers|$Script data_arrival ferriers$GetINFO Sam ferriers|
+Nov 10 07:19:18 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:19:27 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:19:37 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:20:15 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:21:18 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:21:38 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:21:57 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:23:13 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:23:18 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:23:42 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:24:17 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:25:19 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:25:51 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:26:11 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:26:37 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:27:20 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:28:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:28:57 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:29:08 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:29:21 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:30:16 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:31:17 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:31:21 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:32:06 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:32:23 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:33:21 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:33:36 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:34:25 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:35:04 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:35:22 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:35:55 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:36:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:37:23 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:38:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 07:38:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 07:38:02 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:40:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:40:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:40:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:41:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:42:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:42:19 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:42:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:43:58 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:44:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:44:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:45:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:46:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:46:41 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:46:56 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:47:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:48:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:48:58 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:49:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:49:54 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:50:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:51:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:52:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:52:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:52:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:53:23 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:54:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:54:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:55:29 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:55:50 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:56:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:56:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:57:35 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 07:58:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 07:58:48 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 07:59:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 07:59:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:00:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:01:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:01:45 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:01:46 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:02:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:03:40 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:03:51 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:04:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:04:44 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:05:59 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:05:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:06:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:07:42 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:08:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:08:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:08:21 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:10:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:10:39 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:10:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:10:40 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:12:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:12:47 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:12:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:13:38 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:14:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:14:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:15:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:16:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:16:36 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:17:14 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:17:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:18:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:19:19 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:19:34 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:19:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:20:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:21:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:22:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:22:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:22:32 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:23:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:24:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:24:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:25:30 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:25:43 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:26:08 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:26:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:27:51 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:28:08 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:28:28 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:29:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:29:59 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:30:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:31:26 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:31:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:32:08 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:32:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:33:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:34:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:34:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:34:23 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:36:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:36:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:36:30 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:37:21 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:38:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:38:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:38:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:39:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 08:39:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 08:40:34 New connection on socket 6 from user at 172.24.162.235
+Nov 10 08:40:34 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.162.235|
+Nov 10 08:40:34 PID: 4414 Received command from 172.24.162.235, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick Stouf|
+Nov 10 08:40:34 Registered user Stouf logged in from 172.24.162.235
+Nov 10 08:40:34 PID: 4414 Received command from 172.24.162.235, type 0x8: $MyPass ilovechristine|
+Nov 10 08:40:34 PID: 4413 Received command from forked_process, type 0x80: $Hello Stouf|$Script data_arrival Stouf$MyPass ilovechristine|
+Nov 10 08:40:34 PID: 4414 Received command from 172.24.162.235, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981084241$|
+Nov 10 08:40:34 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$Version 1,0091|$Script data_arrival Stouf$GetNickList|$Script user_info Stouf 3953268908 172.24.162.235 8 1,0091|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981084241$|$Script reg_user_connected Stouf|$Script data_arrival Stouf$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981084241$|
+Nov 10 08:40:34 PID: 4414 Received command from 172.24.162.235, type 0x8: $GetINFO bedouin Stouf|$GetINFO ferriers Stouf|$GetINFO mediatek Stouf|$GetINFO Sam Stouf|$GetINFO Stouf Stouf|
+Nov 10 08:40:34 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$GetINFO bedouin Stouf|$Script data_arrival Stouf$GetINFO ferriers Stouf|$Script data_arrival Stouf$GetINFO mediatek Stouf|$Script data_arrival Stouf$GetINFO Sam Stouf|$Script data_arrival Stouf$GetINFO Stouf Stouf|
+Nov 10 08:40:40 PID: 4414 Received command from 172.24.162.235, type 0x8: $ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:40:40 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:40:48 PID: 4414 Received command from 172.24.162.235, type 0x8: $ConnectToMe bedouin 172.24.162.235:1412|
+Nov 10 08:40:48 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$ConnectToMe bedouin 172.24.162.235:1412|
+Nov 10 08:40:57 Stouf from 172.24.162.235 at socket 6 hung up
+Nov 10 08:40:57 PID: 4413 Received command from forked_process, type 0x80: $Quit Stouf|$Script user_disconnected Stouf|
+Nov 10 08:40:57 New connection on socket 6 from user at 172.24.162.235
+Nov 10 08:40:57 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.162.235|
+Nov 10 08:40:57 PID: 4414 Received command from 172.24.162.235, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick Stouf|
+Nov 10 08:40:58 Registered user Stouf logged in from 172.24.162.235
+Nov 10 08:40:58 PID: 4414 Received command from 172.24.162.235, type 0x8: $MyPass ilovechristine|
+Nov 10 08:40:58 PID: 4413 Received command from forked_process, type 0x80: $Hello Stouf|$Script data_arrival Stouf$MyPass ilovechristine|
+Nov 10 08:40:58 PID: 4414 Received command from 172.24.162.235, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|
+Nov 10 08:40:58 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$Version 1,0091|$Script data_arrival Stouf$GetNickList|$Script user_info Stouf 3953268908 172.24.162.235 8 1,0091|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|$Script reg_user_connected Stouf|$Script data_arrival Stouf$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|
+Nov 10 08:40:58 PID: 4414 Received command from 172.24.162.235, type 0x8: $GetINFO bedouin Stouf|$GetINFO ferriers Stouf|$GetINFO mediatek Stouf|$GetINFO Sam Stouf|$GetINFO Stouf Stouf|
+Nov 10 08:40:58 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$GetINFO bedouin Stouf|$Script data_arrival Stouf$GetINFO ferriers Stouf|$Script data_arrival Stouf$GetINFO mediatek Stouf|$Script data_arrival Stouf$GetINFO Sam Stouf|$Script data_arrival Stouf$GetINFO Stouf Stouf|
+Nov 10 08:40:59 PID: 4414 Received command from 172.24.162.235, type 0x8: $ConnectToMe bedouin 172.24.162.235:1412|$ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:40:59 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$ConnectToMe bedouin 172.24.162.235:1412|$Script data_arrival Stouf$ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:41:53 Stouf from 172.24.162.235 at socket 6 hung up
+Nov 10 08:41:53 PID: 4413 Received command from forked_process, type 0x80: $Quit Stouf|$Script user_disconnected Stouf|
+Nov 10 08:41:53 New connection on socket 6 from user at 172.24.162.235
+Nov 10 08:41:53 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.162.235|
+Nov 10 08:41:53 PID: 4414 Received command from 172.24.162.235, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick Stouf|
+Nov 10 08:41:54 Registered user Stouf logged in from 172.24.162.235
+Nov 10 08:41:54 PID: 4414 Received command from 172.24.162.235, type 0x8: $MyPass ilovechristine|
+Nov 10 08:41:54 PID: 4413 Received command from forked_process, type 0x80: $Hello Stouf|$Script data_arrival Stouf$MyPass ilovechristine|
+Nov 10 08:41:54 PID: 4414 Received command from 172.24.162.235, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|
+Nov 10 08:41:54 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$Version 1,0091|$Script data_arrival Stouf$GetNickList|$Script user_info Stouf 3953268908 172.24.162.235 8 1,0091|$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|$Script reg_user_connected Stouf|$Script data_arrival Stouf$MyINFO $ALL Stouf M305<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$christophe.etienne@eleves.enpc.fr$75981215233$|
+Nov 10 08:41:54 PID: 4414 Received command from 172.24.162.235, type 0x8: $GetINFO bedouin Stouf|$GetINFO ferriers Stouf|$GetINFO mediatek Stouf|$GetINFO Sam Stouf|$GetINFO Stouf Stouf|
+Nov 10 08:41:54 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$GetINFO bedouin Stouf|$Script data_arrival Stouf$GetINFO ferriers Stouf|$Script data_arrival Stouf$GetINFO mediatek Stouf|$Script data_arrival Stouf$GetINFO Sam Stouf|$Script data_arrival Stouf$GetINFO Stouf Stouf|
+Nov 10 08:41:55 PID: 4414 Received command from 172.24.162.235, type 0x8: $ConnectToMe bedouin 172.24.162.235:1412|$ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:41:55 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Stouf$ConnectToMe bedouin 172.24.162.235:1412|$Script data_arrival Stouf$ConnectToMe Sam 172.24.162.235:1412|
+Nov 10 08:43:55 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:44:02 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:44:15 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:44:26 PID: 4414 Received command from 172.24.162.235, type 0x8: |
+Nov 10 08:44:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:45:55 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:45:58 Stouf from 172.24.162.235 at socket 6 hung up
+Nov 10 08:45:58 PID: 4413 Received command from forked_process, type 0x80: $Quit Stouf|$Script user_disconnected Stouf|
+Nov 10 08:47:58 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:48:03 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:48:17 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:48:55 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:49:58 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:50:15 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:50:37 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:51:53 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:51:58 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:52:29 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:52:57 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:53:58 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:54:37 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:54:51 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:55:17 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:55:59 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:56:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:57:37 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:57:49 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 08:57:59 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 08:58:54 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 08:59:56 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 08:59:59 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:00:47 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:00:58 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:01:59 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:02:16 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:03:12 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:03:19 New connection on socket 6 from user at 172.24.156.249
+Nov 10 09:03:19 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.156.249|
+Nov 10 09:03:19 PID: 4414 Received command from 172.24.156.249, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick rose26|
+Nov 10 09:03:19 Registered user rose26 logged in from 172.24.156.249
+Nov 10 09:03:19 PID: 4414 Received command from 172.24.156.249, type 0x8: $MyPass 96_38_28_34_|
+Nov 10 09:03:19 PID: 4413 Received command from forked_process, type 0x80: $Hello rose26|$Script data_arrival rose26$MyPass 96_38_28_34_|
+Nov 10 09:03:19 PID: 4414 Received command from 172.24.156.249, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL rose26 M252<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$$1491746816$|
+Nov 10 09:03:19 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$Version 1,0091|$Script data_arrival rose26$GetNickList|$Script user_info rose26 4187756716 172.24.156.249 8 1,0091|$MyINFO $ALL rose26 M252<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$$1491746816$|$Script reg_user_connected rose26|$Script data_arrival rose26$MyINFO $ALL rose26 M252<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$$1491746816$|
+Nov 10 09:03:20 PID: 4414 Received command from 172.24.156.249, type 0x8: $GetINFO bedouin rose26|$GetINFO ferriers rose26|$GetINFO mediatek rose26|$GetINFO Sam rose26|$GetINFO rose26 rose26|
+Nov 10 09:03:20 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$GetINFO bedouin rose26|$Script data_arrival rose26$GetINFO ferriers rose26|$Script data_arrival rose26$GetINFO mediatek rose26|$Script data_arrival rose26$GetINFO Sam rose26|$Script data_arrival rose26$GetINFO rose26 rose26|
+Nov 10 09:03:43 PID: 4414 Received command from 172.24.156.249, type 0x8: $ConnectToMe mediatek 172.24.156.249:1412|
+Nov 10 09:03:43 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$ConnectToMe mediatek 172.24.156.249:1412|
+Nov 10 09:03:59 PID: 4414 Received command from 172.24.156.249, type 0x8: $ConnectToMe Sam 172.24.156.249:1412|
+Nov 10 09:03:59 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$ConnectToMe Sam 172.24.156.249:1412|
+Nov 10 09:04:06 New connection on socket 7 from user at 172.24.185.214
+Nov 10 09:04:06 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 09:04:06 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 09:04:07 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 09:04:07 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 09:04:07 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 09:04:07 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 09:04:07 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 09:04:07 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO rose26 ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 09:04:07 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO rose26 ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 09:04:10 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:04:10 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:04:16 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 09:04:16 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 09:04:36 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe mediatek 172.24.185.214:1412|
+Nov 10 09:04:36 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe mediatek 172.24.185.214:1412|
+Nov 10 09:04:39 PID: 4414 Received command from 172.24.156.249, type 0x8: $ConnectToMe ronan-c 172.24.156.249:1412|
+Nov 10 09:04:39 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$ConnectToMe ronan-c 172.24.156.249:1412|
+Nov 10 09:04:51 PID: 4414 Received command from 172.24.156.249, type 0x8: $ConnectToMe bedouin 172.24.156.249:1412|
+Nov 10 09:04:51 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival rose26$ConnectToMe bedouin 172.24.156.249:1412|
+Nov 10 09:05:11 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:05:11 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:05:14 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe rose26 172.24.185.214:1412|$ConnectToMe ferriers 172.24.185.214:1412|
+Nov 10 09:05:14 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe rose26 172.24.185.214:1412|$Script data_arrival ronan-c$ConnectToMe ferriers 172.24.185.214:1412|
+Nov 10 09:05:17 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 09:05:17 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 09:05:18 rose26 from 172.24.156.249 at socket 6 hung up
+Nov 10 09:05:18 PID: 4413 Received command from forked_process, type 0x80: $Quit rose26|$Script user_disconnected rose26|
+Nov 10 09:05:36 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe mediatek 172.24.185.214:1412|
+Nov 10 09:05:36 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe mediatek 172.24.185.214:1412|
+Nov 10 09:05:45 ronan-c from 172.24.185.214 at socket 7 hung up
+Nov 10 09:05:45 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 09:07:45 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:07:53 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:08:04 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:08:42 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:09:45 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:09:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:10:24 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:11:40 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:11:46 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:12:06 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:12:44 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:13:46 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:14:14 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:14:38 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:15:04 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:15:46 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:16:20 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:16:21 New connection on socket 6 from user at 172.24.185.214
+Nov 10 09:16:21 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 09:16:21 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 09:16:22 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 09:16:22 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 09:16:22 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 09:16:22 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 09:16:22 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 09:16:22 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 09:16:22 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 09:16:26 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:16:26 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 09:16:30 ronan-c from 172.24.185.214 at socket 6 hung up (Connection reset by peer)
+Nov 10 09:16:30 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 09:18:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:18:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:18:50 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:19:28 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:20:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:20:47 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:21:10 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:22:26 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:22:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:22:58 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:23:30 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:24:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:25:07 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:25:24 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:25:50 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:26:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:27:28 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:28:10 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:28:21 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:28:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:29:30 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:30:30 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:30:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:31:19 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:31:38 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:32:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:32:50 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:33:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:34:17 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:34:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:35:10 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:35:53 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:36:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:37:15 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:37:30 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:38:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:38:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:39:50 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:40:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 09:40:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 09:42:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:42:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:42:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:43:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:44:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:44:24 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:44:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:45:57 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:46:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:46:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:47:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:48:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:48:43 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:48:55 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:49:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:50:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:50:53 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:51:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:51:53 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:52:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:53:02 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:54:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:54:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:54:51 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:55:16 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:56:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:56:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:57:19 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 09:57:49 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 09:58:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 09:58:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 09:59:39 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:00:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:00:47 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:01:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:01:44 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:02:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:03:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:03:45 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:03:54 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:04:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:05:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:06:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:06:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:06:43 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:08:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:08:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:08:17 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:08:26 New connection on socket 6 from user at 172.24.185.214
+Nov 10 10:08:26 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 10:08:26 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 10:08:26 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 10:08:26 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 10:08:26 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 10:08:26 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:08:26 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:08:27 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 10:08:27 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 10:10:27 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:10:28 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:10:39 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:10:46 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:11:24 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:12:27 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:12:33 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:12:51 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:13:06 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:14:22 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:14:27 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:14:49 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:15:03 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:15:26 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:16:29 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:16:59 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:17:15 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:17:20 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:17:46 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:18:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:19:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:19:26 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:20:06 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:20:18 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:20:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:21:27 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:21:37 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:22:26 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:22:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:23:16 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:23:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:23:48 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:24:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:24:46 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:25:52 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:26:00 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:26:13 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:26:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:27:06 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:27:59 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:28:11 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:28:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:29:11 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:29:26 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:30:06 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:30:22 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:30:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:31:46 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:32:09 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:32:18 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:32:28 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:32:33 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:34:03 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:34:03 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:34:06 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:34:06 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe ferriers 172.24.185.214:1412|
+Nov 10 10:34:06 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe ferriers 172.24.185.214:1412|
+Nov 10 10:34:21 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:36:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:36:17 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:36:26 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:36:34 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:37:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:37:27 ronan-c from 172.24.185.214 at socket 6 hung up (Connection reset by peer)
+Nov 10 10:37:27 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 10:37:43 New connection on socket 6 from user at 172.24.185.214
+Nov 10 10:37:43 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 10:37:43 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 10:37:44 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 10:37:44 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 10:37:44 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 10:37:44 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:37:44 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:37:44 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 10:37:44 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 10:37:44 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:37:44 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:38:00 ronan-c from 172.24.185.214 at socket 6 hung up
+Nov 10 10:38:00 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 10:38:02 New connection on socket 6 from user at 172.24.185.214
+Nov 10 10:38:02 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 10:38:02 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 10:38:02 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 10:38:02 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 10:38:02 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 10:38:02 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:38:02 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 10:38:02 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 10:38:02 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 10:38:03 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:38:03 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:40:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:40:08 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:40:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:40:25 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:41:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:41:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 10:41:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 10:43:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:43:05 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:43:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:43:24 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:44:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:45:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:45:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:45:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:45:47 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:46:58 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:47:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:47:24 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:48:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:48:09 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:49:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:49:30 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:49:56 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:50:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:50:32 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:51:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:51:49 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:52:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:52:54 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:52:54 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:53:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:53:23 New connection on socket 7 from user at 172.24.199.182
+Nov 10 10:53:23 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.199.182|
+Nov 10 10:53:23 PID: 4414 Received command from 172.24.199.182, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ben34|
+Nov 10 10:53:24 Registered user ben34 logged in from 172.24.199.182
+Nov 10 10:53:24 PID: 4414 Received command from 172.24.199.182, type 0x8: $MyPass kcr4aghg|
+Nov 10 10:53:24 PID: 4413 Received command from forked_process, type 0x80: $Hello ben34|$Script data_arrival ben34$MyPass kcr4aghg|
+Nov 10 10:53:24 PID: 4414 Received command from 172.24.199.182, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|
+Nov 10 10:53:24 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$Version 1,0091|$Script data_arrival ben34$GetNickList|$Script user_info ben34 3066501292 172.24.199.182 8 1,0091|$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|$Script reg_user_connected ben34|$Script data_arrival ben34$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|
+Nov 10 10:53:24 PID: 4414 Received command from 172.24.199.182, type 0x8: $GetINFO bedouin ben34|$GetINFO ferriers ben34|$GetINFO mediatek ben34|$GetINFO Sam ben34|$GetINFO ronan-c ben34|$GetINFO ben34 ben34|
+Nov 10 10:53:24 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$GetINFO bedouin ben34|$Script data_arrival ben34$GetINFO ferriers ben34|$Script data_arrival ben34$GetINFO mediatek ben34|$Script data_arrival ben34$GetINFO Sam ben34|$Script data_arrival ben34$GetINFO ronan-c ben34|$Script data_arrival ben34$GetINFO ben34 ben34|
+Nov 10 10:53:28 PID: 4414 Received command from 172.24.199.182, type 0x8: $ConnectToMe Sam 172.24.199.182:23546|
+Nov 10 10:53:28 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$ConnectToMe Sam 172.24.199.182:23546|
+Nov 10 10:54:46 PID: 4414 Received command from 172.24.199.182, type 0x8: $ConnectToMe ronan-c 172.24.199.182:23546|
+Nov 10 10:54:46 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$ConnectToMe ronan-c 172.24.199.182:23546|
+Nov 10 10:55:25 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:55:33 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:55:34 PID: 4414 Received command from 172.24.199.182, type 0x8: $ConnectToMe bedouin 172.24.199.182:23546|
+Nov 10 10:55:34 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$ConnectToMe bedouin 172.24.199.182:23546|
+Nov 10 10:55:45 PID: 4414 Received command from 172.24.199.182, type 0x8: $ConnectToMe mediatek 172.24.199.182:23546|
+Nov 10 10:55:45 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$ConnectToMe mediatek 172.24.199.182:23546|
+Nov 10 10:56:26 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:57:09 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:57:25 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:57:49 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 10:57:54 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 10:58:00 PID: 4414 Received command from 172.24.199.182, type 0x8: |
+Nov 10 10:59:24 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 10:59:25 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 10:59:31 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 10:59:48 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 10:59:48 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe Sam 172.24.185.214:1412|
+Nov 10 11:00:02 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:00:13 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:00:14 PID: 4414 Received command from 172.24.199.182, type 0x8: |
+Nov 10 11:01:23 ronan-c from 172.24.185.214 at socket 6 hung up
+Nov 10 11:01:23 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 11:02:06 ben34 from 172.24.199.182 at socket 7 hung up
+Nov 10 11:02:06 PID: 4413 Received command from forked_process, type 0x80: $Quit ben34|$Script user_disconnected ben34|
+Nov 10 11:02:08 New connection on socket 6 from user at 172.24.199.182
+Nov 10 11:02:08 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.199.182|
+Nov 10 11:02:08 PID: 4414 Received command from 172.24.199.182, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ben34|
+Nov 10 11:02:09 Registered user ben34 logged in from 172.24.199.182
+Nov 10 11:02:09 PID: 4414 Received command from 172.24.199.182, type 0x8: $MyPass kcr4aghg|
+Nov 10 11:02:09 PID: 4413 Received command from forked_process, type 0x80: $Hello ben34|$Script data_arrival ben34$MyPass kcr4aghg|
+Nov 10 11:02:09 PID: 4414 Received command from 172.24.199.182, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|
+Nov 10 11:02:09 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$Version 1,0091|$Script data_arrival ben34$GetNickList|$Script user_info ben34 3066501292 172.24.199.182 8 1,0091|$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|$Script reg_user_connected ben34|$Script data_arrival ben34$MyINFO $ALL ben34 M335<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$garnierb@eleves.enpc.fr$37969821739$|
+Nov 10 11:02:09 PID: 4414 Received command from 172.24.199.182, type 0x8: $GetINFO bedouin ben34|$GetINFO ferriers ben34|$GetINFO mediatek ben34|$GetINFO Sam ben34|$GetINFO ben34 ben34|
+Nov 10 11:02:09 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$GetINFO bedouin ben34|$Script data_arrival ben34$GetINFO ferriers ben34|$Script data_arrival ben34$GetINFO mediatek ben34|$Script data_arrival ben34$GetINFO Sam ben34|$Script data_arrival ben34$GetINFO ben34 ben34|
+Nov 10 11:02:12 PID: 4414 Received command from 172.24.199.182, type 0x8: $ConnectToMe bedouin 172.24.199.182:24241|
+Nov 10 11:02:12 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ben34$ConnectToMe bedouin 172.24.199.182:24241|
+Nov 10 11:04:10 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:04:18 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:04:32 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:05:07 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:05:11 PID: 4414 Received command from 172.24.199.182, type 0x8: |
+Nov 10 11:06:10 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:06:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:06:52 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:07:30 ben34 from 172.24.199.182 at socket 6 hung up
+Nov 10 11:07:30 PID: 4413 Received command from forked_process, type 0x80: $Quit ben34|$Script user_disconnected ben34|
+Nov 10 11:09:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:09:37 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:09:43 New connection on socket 6 from user at 172.24.185.214
+Nov 10 11:09:43 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 11:09:43 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 11:09:43 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 11:09:43 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 11:09:43 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 11:09:43 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 11:09:43 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 11:09:43 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 11:09:43 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 11:09:48 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 11:09:48 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe bedouin 172.24.185.214:1412|
+Nov 10 11:10:40 ronan-c from 172.24.185.214 at socket 6 hung up
+Nov 10 11:10:40 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 11:12:41 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:12:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:13:00 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:13:37 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:14:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:15:08 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:15:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:16:35 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:16:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:17:18 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:17:40 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:18:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:19:24 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:19:33 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:20:00 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:20:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:21:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:22:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:22:31 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:22:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:23:41 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:24:40 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:24:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:25:29 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:25:51 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:26:43 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:27:00 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:27:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:28:26 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:28:43 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:29:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:30:02 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:30:44 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:31:24 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:31:40 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:32:07 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:32:44 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:34:00 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:34:22 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:34:28 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:34:44 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:36:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:36:43 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:36:44 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:37:20 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:38:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:38:45 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:38:47 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:40:17 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:40:45 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:40:50 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:40:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:42:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 11:42:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 11:44:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:44:10 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:44:23 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:45:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:46:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:46:24 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:46:43 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:47:57 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:48:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:48:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:49:03 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:50:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:50:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:50:55 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:51:23 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:52:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:52:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:53:05 New connection on socket 6 from user at 172.24.189.184
+Nov 10 11:53:05 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.189.184|
+Nov 10 11:53:43 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:53:53 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:54:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:54:57 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:55:43 New connection on socket 6 from user at 172.24.189.184
+Nov 10 11:55:43 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.189.184|
+Nov 10 11:56:03 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:56:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:56:51 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 11:57:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:58:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 11:58:23 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 11:58:23 New connection on socket 6 from user at 172.24.189.184
+Nov 10 11:58:23 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.189.184|
+Nov 10 11:59:17 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 11:59:39 New connection on socket 6 from user at 172.24.163.235
+Nov 10 11:59:39 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.163.235|
+Nov 10 11:59:39 PID: 4414 Received command from 172.24.163.235, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick vincebib|
+Nov 10 11:59:40 Registered user vincebib logged in from 172.24.163.235
+Nov 10 11:59:40 PID: 4414 Received command from 172.24.163.235, type 0x8: $MyPass porte523|
+Nov 10 11:59:40 PID: 4413 Received command from forked_process, type 0x80: $Hello vincebib|$Script data_arrival vincebib$MyPass porte523|
+Nov 10 11:59:40 PID: 4414 Received command from 172.24.163.235, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142613962384$|
+Nov 10 11:59:40 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival vincebib$Version 1,0091|$Script data_arrival vincebib$GetNickList|$Script user_info vincebib 3953334444 172.24.163.235 8 1,0091|$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142613962384$|$Script reg_user_connected vincebib|$Script data_arrival vincebib$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142613962384$|
+Nov 10 11:59:40 PID: 4414 Received command from 172.24.163.235, type 0x8: $GetINFO bedouin vincebib|$GetINFO ferriers vincebib|$GetINFO mediatek vincebib|$GetINFO Sam vincebib|$GetINFO vincebib vincebib|
+Nov 10 11:59:40 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival vincebib$GetINFO bedouin vincebib|$Script data_arrival vincebib$GetINFO ferriers vincebib|$Script data_arrival vincebib$GetINFO mediatek vincebib|$Script data_arrival vincebib$GetINFO Sam vincebib|$Script data_arrival vincebib$GetINFO vincebib vincebib|
+Nov 10 11:59:55 PID: 4414 Received command from 172.24.163.235, type 0x8: $Search 172.24.163.235:1412 F?T?0?1?big$bang$thoery|
+Nov 10 11:59:55 PID: 4413 Received command from forked_process, type 0x80: $Search 172.24.163.235:1412 F?T?0?1?big$bang$thoery|$Script data_arrival vincebib$Search 172.24.163.235:1412 F?T?0?1?big$bang$thoery|
+Nov 10 12:00:02 PID: 4414 Received command from 172.24.163.235, type 0x8: $Search 172.24.163.235:1412 F?T?0?1?big$bang$theory|
+Nov 10 12:00:02 PID: 4413 Received command from forked_process, type 0x80: $Search 172.24.163.235:1412 F?T?0?1?big$bang$theory|$Script data_arrival vincebib$Search 172.24.163.235:1412 F?T?0?1?big$bang$theory|
+Nov 10 12:00:59 New connection on socket 7 from user at 172.24.189.184
+Nov 10 12:00:59 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.189.184|
+Nov 10 12:02:02 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:02:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:02:15 New connection on socket 7 from user at 172.24.189.184
+Nov 10 12:02:15 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.189.184|
+Nov 10 12:02:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:02:40 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:02:59 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:04:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:04:18 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:04:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:05:18 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:05:57 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:06:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:06:23 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:07:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:07:56 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:08:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:08:32 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:08:55 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:09:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:10:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:10:33 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:10:35 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:11:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:11:53 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:12:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:12:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:13:13 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:14:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:14:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:14:51 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:14:54 PID: 4414 Received command from 172.24.163.235, type 0x8: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142615511170$|
+Nov 10 12:14:54 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142615511170$|$Script data_arrival vincebib$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$142615511170$|
+Nov 10 12:16:55 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:17:12 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:17:13 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:17:33 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:17:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:18:55 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:19:21 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:19:33 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:20:11 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:20:29 New connection on socket 7 from user at 172.24.179.202
+Nov 10 12:20:29 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.179.202|
+Nov 10 12:20:29 PID: 4414 Received command from 172.24.179.202, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick manulomb|
+Nov 10 12:20:29 Registered user manulomb logged in from 172.24.179.202
+Nov 10 12:20:29 PID: 4414 Received command from 172.24.179.202, type 0x8: $MyPass pp00pp00|
+Nov 10 12:20:29 PID: 4413 Received command from forked_process, type 0x80: $Hello manulomb|$Script data_arrival manulomb$MyPass pp00pp00|
+Nov 10 12:20:29 PID: 4414 Received command from 172.24.179.202, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL manulomb 121<++ V:0.674,M:A,H:0/1/0,S:2>$ $28.8Kbps$manuel.lombardero-botey@eleves.enpc.fr$2606775170$|
+Nov 10 12:20:29 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$Version 1,0091|$Script data_arrival manulomb$GetNickList|$Script user_info manulomb 3400734892 172.24.179.202 8 1,0091|$MyINFO $ALL manulomb 121<++ V:0.674,M:A,H:0/1/0,S:2>$ $28.8Kbps$manuel.lombardero-botey@eleves.enpc.fr$2606775170$|$Script reg_user_connected manulomb|$Script data_arrival manulomb$MyINFO $ALL manulomb 121<++ V:0.674,M:A,H:0/1/0,S:2>$ $28.8Kbps$manuel.lombardero-botey@eleves.enpc.fr$2606775170$|
+Nov 10 12:20:29 PID: 4414 Received command from 172.24.179.202, type 0x8: $GetINFO bedouin manulomb|$GetINFO ferriers manulomb|$GetINFO mediatek manulomb|$GetINFO Sam manulomb|$GetINFO vincebib manulomb|$GetINFO manulomb manulomb|
+Nov 10 12:20:29 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$GetINFO bedouin manulomb|$Script data_arrival manulomb$GetINFO ferriers manulomb|$Script data_arrival manulomb$GetINFO mediatek manulomb|$Script data_arrival manulomb$GetINFO Sam manulomb|$Script data_arrival manulomb$GetINFO vincebib manulomb|$Script data_arrival manulomb$GetINFO manulomb manulomb|
+Nov 10 12:22:30 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:22:44 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:22:46 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:22:49 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:23:08 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:23:27 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:24:18 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe Sam 172.24.179.202:1412|
+Nov 10 12:24:18 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe Sam 172.24.179.202:1412|
+Nov 10 12:24:31 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:24:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:25:09 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:25:46 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:26:32 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:26:34 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:26:44 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe vincebib 172.24.179.202:1412|
+Nov 10 12:26:44 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe vincebib 172.24.179.202:1412|
+Nov 10 12:27:01 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:27:15 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:27:29 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:28:32 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:29:00 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:29:15 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:29:22 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:29:49 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:30:13 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:30:33 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:31:16 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:31:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:32:00 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:32:09 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:32:33 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:32:37 New connection on socket 8 from user at 172.24.188.187
+Nov 10 12:32:37 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.188.187|
+Nov 10 12:32:37 PID: 4414 Received command from 172.24.188.187, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick Mickael|
+Nov 10 12:32:37 Registered user Mickael logged in from 172.24.188.187
+Nov 10 12:32:37 PID: 4414 Received command from 172.24.188.187, type 0x8: $MyPass js1e2PeC|
+Nov 10 12:32:37 PID: 4413 Received command from forked_process, type 0x80: $Hello Mickael|$Script data_arrival Mickael$MyPass js1e2PeC|
+Nov 10 12:32:37 PID: 4414 Received command from 172.24.188.187, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL Mickael M111<++ V:0.75,M:A,H:0/1/0,S:8>$ $1000$mickael.bergem@eleves.enpc.fr$493898890849$|
+Nov 10 12:32:37 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Mickael$Version 1,0091|$Script data_arrival Mickael$GetNickList|$Script user_info Mickael 3149666476 172.24.188.187 8 1,0091|$MyINFO $ALL Mickael M111<++ V:0.75,M:A,H:0/1/0,S:8>$ $1000$mickael.bergem@eleves.enpc.fr$493898890849$|$Script reg_user_connected Mickael|$Script data_arrival Mickael$MyINFO $ALL Mickael M111<++ V:0.75,M:A,H:0/1/0,S:8>$ $1000$mickael.bergem@eleves.enpc.fr$493898890849$|
+Nov 10 12:32:38 PID: 4414 Received command from 172.24.188.187, type 0x8: $GetINFO bedouin Mickael|$GetINFO ferriers Mickael|$GetINFO mediatek Mickael|$GetINFO Sam Mickael|$GetINFO vincebib Mickael|$GetINFO manulomb Mickael|$GetINFO Mickael Mickael|
+Nov 10 12:32:38 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Mickael$GetINFO bedouin Mickael|$Script data_arrival Mickael$GetINFO ferriers Mickael|$Script data_arrival Mickael$GetINFO mediatek Mickael|$Script data_arrival Mickael$GetINFO Sam Mickael|$Script data_arrival Mickael$GetINFO vincebib Mickael|$Script data_arrival Mickael$GetINFO manulomb Mickael|$Script data_arrival Mickael$GetINFO Mickael Mickael|
+Nov 10 12:34:38 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:34:38 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:34:44 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:34:54 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:34:57 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:35:16 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:35:35 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:36:39 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:36:39 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:36:58 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:37:10 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:37:17 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:37:54 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:38:33 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:38:38 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:38:40 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:39:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:39:26 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:39:37 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:40:32 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:40:38 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:40:41 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:41:26 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:41:31 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:41:42 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:41:57 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:42:38 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:42:42 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:43:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 12:43:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 12:45:03 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:45:03 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:45:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:45:19 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:45:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:45:41 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:46:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:47:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:47:04 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:47:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:47:35 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:47:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:48:19 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:48:58 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:49:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:49:05 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:49:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:49:51 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:50:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:50:58 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:51:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:51:06 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:51:22 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:51:56 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:52:07 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:52:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:53:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:53:07 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:53:29 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:53:36 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:54:23 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:54:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:54:54 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:55:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:55:08 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:55:37 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:56:14 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:56:39 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:57:02 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 12:57:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:57:09 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:57:49 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 12:57:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 12:58:53 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 12:58:55 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 12:59:04 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 12:59:10 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 12:59:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:00:00 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:00:40 PID: 4414 Received command from 172.24.163.235, type 0x8: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$130111117559$|
+Nov 10 13:00:40 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$130111117559$|$Script data_arrival vincebib$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$130111117559$|
+Nov 10 13:02:41 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:02:41 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:02:57 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:02:57 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:03:00 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:03:19 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:03:38 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:04:41 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:04:42 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:05:08 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:05:13 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:05:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:05:57 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:06:36 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:06:41 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:06:43 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:07:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:07:29 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:07:39 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:08:35 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:08:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:08:44 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:09:19 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:09:34 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:09:45 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:09:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:10:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:10:45 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:11:13 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:11:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:12:01 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:12:19 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:12:32 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:12:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:12:46 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:13:43 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:13:52 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:14:02 New connection on socket 9 from user at 172.24.166.229
+Nov 10 13:14:02 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.166.229|
+Nov 10 13:14:02 PID: 4414 Received command from 172.24.166.229, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick th0mas|
+Nov 10 13:14:03 Registered user th0mas logged in from 172.24.166.229
+Nov 10 13:14:03 PID: 4414 Received command from 172.24.166.229, type 0x8: $MyPass 3539lea|
+Nov 10 13:14:03 PID: 4413 Received command from forked_process, type 0x80: $Hello th0mas|$Script data_arrival th0mas$MyPass 3539lea|
+Nov 10 13:14:03 PID: 4414 Received command from 172.24.166.229, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL th0mas 216<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$ardiett@eleves.enpc.fr$112161489019$|
+Nov 10 13:14:03 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$Version 1,0091|$Script data_arrival th0mas$GetNickList|$Script user_info th0mas 3852867756 172.24.166.229 8 1,0091|$MyINFO $ALL th0mas 216<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$ardiett@eleves.enpc.fr$112161489019$|$Script reg_user_connected th0mas|$Script data_arrival th0mas$MyINFO $ALL th0mas 216<++ V:0.674,M:A,H:0/1/0,S:2>$ $LAN(T3)$ardiett@eleves.enpc.fr$112161489019$|
+Nov 10 13:14:03 PID: 4414 Received command from 172.24.166.229, type 0x8: $GetINFO bedouin th0mas|$GetINFO ferriers th0mas|$GetINFO mediatek th0mas|$GetINFO Sam th0mas|$GetINFO vincebib th0mas|$GetINFO manulomb th0mas|$GetINFO Mickael th0mas|$GetINFO th0mas th0mas|
+Nov 10 13:14:03 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$GetINFO bedouin th0mas|$Script data_arrival th0mas$GetINFO ferriers th0mas|$Script data_arrival th0mas$GetINFO mediatek th0mas|$Script data_arrival th0mas$GetINFO Sam th0mas|$Script data_arrival th0mas$GetINFO vincebib th0mas|$Script data_arrival th0mas$GetINFO manulomb th0mas|$Script data_arrival th0mas$GetINFO Mickael th0mas|$Script data_arrival th0mas$GetINFO th0mas th0mas|
+Nov 10 13:14:04 PID: 4414 Received command from 172.24.163.235, type 0x8: $ConnectToMe th0mas 172.24.163.235:1412|
+Nov 10 13:14:04 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival vincebib$ConnectToMe th0mas 172.24.163.235:1412|
+Nov 10 13:14:20 PID: 4414 Received command from 172.24.166.229, type 0x8: $ConnectToMe Sam 172.24.166.229:1412|
+Nov 10 13:14:20 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$ConnectToMe Sam 172.24.166.229:1412|
+Nov 10 13:15:54 PID: 4414 Received command from 172.24.166.229, type 0x8: $ConnectToMe bedouin 172.24.166.229:1412|
+Nov 10 13:15:54 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$ConnectToMe bedouin 172.24.166.229:1412|
+Nov 10 13:16:03 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:16:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:16:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:16:20 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:16:20 PID: 4414 Received command from 172.24.166.229, type 0x8: $ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:16:20 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:17:17 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:18:04 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:18:05 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:18:14 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:18:17 PID: 4414 Received command from 172.24.166.229, type 0x8: $ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:18:17 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:18:27 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:18:31 PID: 4414 Received command from 172.24.166.229, type 0x8: $ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:18:31 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival th0mas$ConnectToMe vincebib 172.24.166.229:1412|
+Nov 10 13:18:36 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:20:05 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:20:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:20:15 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:20:34 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:20:34 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:20:52 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:20:56 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:21:10 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:22:06 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:22:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:22:49 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:22:54 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:23:08 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:23:13 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:23:29 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:23:48 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:24:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:24:07 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:25:06 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:25:14 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:25:24 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:25:46 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:26:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:26:08 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:26:11 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:26:27 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:27:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:27:34 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:27:40 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:28:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:28:09 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:28:16 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:29:06 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:29:08 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:29:22 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:29:53 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:29:56 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:30:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:30:09 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:30:33 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:31:40 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:31:45 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:32:06 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:32:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:32:10 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:32:12 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:32:13 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:33:04 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:33:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:34:08 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:34:11 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:34:23 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:34:28 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:34:33 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:35:03 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:35:22 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:35:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:36:08 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:36:12 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:36:44 PID: 4414 Received command from 172.24.179.202, type 0x8: |
+Nov 10 13:36:53 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:37:01 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:37:45 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:38:01 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:38:01 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:38:09 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:38:13 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:38:42 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe th0mas 172.24.179.202:1412|
+Nov 10 13:38:42 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe th0mas 172.24.179.202:1412|
+Nov 10 13:38:55 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe Mickael 172.24.179.202:1412|
+Nov 10 13:38:55 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe Mickael 172.24.179.202:1412|
+Nov 10 13:39:12 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe vincebib 172.24.179.202:1412|
+Nov 10 13:39:12 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe vincebib 172.24.179.202:1412|
+Nov 10 13:39:13 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:39:23 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe Sam 172.24.179.202:1412|
+Nov 10 13:39:23 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe Sam 172.24.179.202:1412|
+Nov 10 13:39:36 PID: 4414 Received command from 172.24.179.202, type 0x8: $ConnectToMe ferriers 172.24.179.202:1412|
+Nov 10 13:39:36 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival manulomb$ConnectToMe ferriers 172.24.179.202:1412|
+Nov 10 13:39:39 manulomb from 172.24.179.202 at socket 7 hung up
+Nov 10 13:39:39 PID: 4413 Received command from forked_process, type 0x80: $Quit manulomb|$Script user_disconnected manulomb|
+Nov 10 13:41:39 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:41:40 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:41:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:41:59 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:42:04 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:42:18 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:42:37 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:43:40 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:43:40 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:44:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 13:44:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 13:46:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:46:03 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:46:09 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:46:22 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:46:26 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:46:41 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:47:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:48:03 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:48:04 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:48:26 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:48:42 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:48:52 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:49:19 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:49:49 New connection on socket 7 from user at 172.24.178.225
+Nov 10 13:49:49 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.178.225|
+Nov 10 13:49:49 PID: 4414 Received command from 172.24.178.225, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick kochb|
+Nov 10 13:49:50 Registered user kochb logged in from 172.24.178.225
+Nov 10 13:49:50 PID: 4414 Received command from 172.24.178.225, type 0x8: $MyPass a4b4c4d4|
+Nov 10 13:49:50 PID: 4413 Received command from forked_process, type 0x80: $Hello kochb|$Script data_arrival kochb$MyPass a4b4c4d4|
+Nov 10 13:49:50 PID: 4414 Received command from 172.24.178.225, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL kochb M202<++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$kochb@eleves.enpc.fr$1117776771$|
+Nov 10 13:49:50 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival kochb$Version 1,0091|$Script data_arrival kochb$GetNickList|$Script user_info kochb 3786545324 172.24.178.225 8 1,0091|$MyINFO $ALL kochb M202<++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$kochb@eleves.enpc.fr$1117776771$|$Script reg_user_connected kochb|$Script data_arrival kochb$MyINFO $ALL kochb M202<++ V:0.674,M:A,H:0/1/0,S:3>$ $LAN(T3)$kochb@eleves.enpc.fr$1117776771$|
+Nov 10 13:49:50 PID: 4414 Received command from 172.24.178.225, type 0x8: $GetINFO bedouin kochb|$GetINFO ferriers kochb|$GetINFO mediatek kochb|$GetINFO Sam kochb|$GetINFO vincebib kochb|$GetINFO kochb kochb|$GetINFO Mickael kochb|$GetINFO th0mas kochb|
+Nov 10 13:49:50 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival kochb$GetINFO bedouin kochb|$Script data_arrival kochb$GetINFO ferriers kochb|$Script data_arrival kochb$GetINFO mediatek kochb|$Script data_arrival kochb$GetINFO Sam kochb|$Script data_arrival kochb$GetINFO vincebib kochb|$Script data_arrival kochb$GetINFO kochb kochb|$Script data_arrival kochb$GetINFO Mickael kochb|$Script data_arrival kochb$GetINFO th0mas kochb|
+Nov 10 13:50:02 PID: 4414 Received command from 172.24.178.225, type 0x8: $ConnectToMe Mickael 172.24.178.225:1412|
+Nov 10 13:50:02 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival kochb$ConnectToMe Mickael 172.24.178.225:1412|
+Nov 10 13:51:51 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:51:54 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:52:03 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:52:07 PID: 4414 Received command from 172.24.178.225, type 0x8: |
+Nov 10 13:52:09 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:52:28 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:52:47 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:52:50 PID: 4414 Received command from 172.24.166.229, type 0x8: |
+Nov 10 13:53:20 New connection on socket 10 from user at 172.24.185.214
+Nov 10 13:53:20 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 13:53:20 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 13:53:21 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 13:53:21 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 13:53:21 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 13:53:21 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 13:53:21 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$239705681598$|
+Nov 10 13:53:21 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO vincebib ronan-c|$GetINFO kochb ronan-c|$GetINFO Mickael ronan-c|$GetINFO th0mas ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 13:53:21 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO vincebib ronan-c|$Script data_arrival ronan-c$GetINFO kochb ronan-c|$Script data_arrival ronan-c$GetINFO Mickael ronan-c|$Script data_arrival ronan-c$GetINFO th0mas ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 13:53:25 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe vincebib 172.24.185.214:1412|
+Nov 10 13:53:25 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe vincebib 172.24.185.214:1412|
+Nov 10 13:53:27 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe th0mas 172.24.185.214:1412|
+Nov 10 13:53:27 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe th0mas 172.24.185.214:1412|
+Nov 10 13:54:10 ronan-c from 172.24.185.214 at socket 10 hung up
+Nov 10 13:54:10 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 13:55:11 th0mas from 172.24.166.229 at socket 9 hung up
+Nov 10 13:55:11 PID: 4413 Received command from forked_process, type 0x80: $Quit th0mas|$Script user_disconnected th0mas|
+Nov 10 13:57:11 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:57:12 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:57:16 PID: 4414 Received command from 172.24.178.225, type 0x8: |
+Nov 10 13:57:17 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:57:30 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 13:57:49 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 13:58:08 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 13:59:12 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 13:59:12 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 13:59:20 PID: 4414 Received command from 172.24.178.225, type 0x8: |
+Nov 10 13:59:26 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 13:59:49 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:00:27 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:01:06 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:01:12 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:01:13 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:01:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:02:08 New connection on socket 9 from user at 172.24.185.214
+Nov 10 14:02:08 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 14:02:08 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 14:02:09 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:02:09 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 14:02:09 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 14:02:09 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 14:02:09 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$240441130686$|
+Nov 10 14:02:09 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$240441130686$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$240441130686$|
+Nov 10 14:02:09 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO vincebib ronan-c|$GetINFO kochb ronan-c|$GetINFO Mickael ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 14:02:09 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO vincebib ronan-c|$Script data_arrival ronan-c$GetINFO kochb ronan-c|$Script data_arrival ronan-c$GetINFO Mickael ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 14:02:13 ronan-c from 172.24.185.214 at socket 9 hung up
+Nov 10 14:02:13 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 14:02:41 PID: 4414 Received command from 172.24.163.235, type 0x8: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$131224785879$|
+Nov 10 14:02:41 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$131224785879$|$Script data_arrival vincebib$MyINFO $ALL vincebib M008<++ V:0.674,M:A,H:0/1/0,S:6>$ $Cable$vincent.cohen@eleves.enpc.$131224785879$|
+Nov 10 14:04:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:04:42 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:04:54 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:05:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:05:20 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:05:39 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:06:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:06:43 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:07:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:07:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:07:58 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:08:36 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:08:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:08:43 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:09:29 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:09:41 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:10:36 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:10:42 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:10:45 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:11:34 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:11:36 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:12:01 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:12:43 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:12:45 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:13:14 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:13:48 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:14:21 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:14:31 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:14:44 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:14:46 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:15:52 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:15:54 New connection on socket 9 from user at 172.24.185.214
+Nov 10 14:15:54 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 14:15:54 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 14:15:54 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 14:15:54 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 14:15:54 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 14:15:54 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$245136312340$|
+Nov 10 14:15:54 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$245136312340$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$245136312340$|
+Nov 10 14:15:55 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO vincebib ronan-c|$GetINFO kochb ronan-c|$GetINFO Mickael ronan-c|$GetINFO ronan-c ronan-c|
+Nov 10 14:15:55 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO vincebib ronan-c|$Script data_arrival ronan-c$GetINFO kochb ronan-c|$Script data_arrival ronan-c$GetINFO Mickael ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|
+Nov 10 14:16:00 New connection on socket 10 from user at 172.24.167.224
+Nov 10 14:16:00 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.167.224|
+Nov 10 14:16:00 PID: 4414 Received command from 172.24.167.224, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick mars|
+Nov 10 14:16:00 Registered user mars logged in from 172.24.167.224
+Nov 10 14:16:00 PID: 4414 Received command from 172.24.167.224, type 0x8: $MyPass j4dhft6g|
+Nov 10 14:16:00 PID: 4413 Received command from forked_process, type 0x80: $Hello mars|$Script data_arrival mars$MyPass j4dhft6g|
+Nov 10 14:16:00 PID: 4414 Received command from 172.24.167.224, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL mars M22<++ V:0.674,M:P,H:0/1/0,S:1>$ $LAN(T3)$baillym@eleves.enpc.fr$176170323739$|
+Nov 10 14:16:00 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival mars$Version 1,0091|$Script data_arrival mars$GetNickList|$Script user_info mars 3769047212 172.24.167.224 8 1,0091|$MyINFO $ALL mars M22<++ V:0.674,M:P,H:0/1/0,S:1>$ $LAN(T3)$baillym@eleves.enpc.fr$176170323739$|$Script reg_user_connected mars|$Script data_arrival mars$MyINFO $ALL mars M22<++ V:0.674,M:P,H:0/1/0,S:1>$ $LAN(T3)$baillym@eleves.enpc.fr$176170323739$|
+Nov 10 14:16:00 PID: 4414 Received command from 172.24.167.224, type 0x8: $GetINFO bedouin mars|$GetINFO ferriers mars|$GetINFO mediatek mars|$GetINFO Sam mars|$GetINFO vincebib mars|$GetINFO kochb mars|$GetINFO Mickael mars|$GetINFO ronan-c mars|$GetINFO mars mars|
+Nov 10 14:16:00 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival mars$GetINFO bedouin mars|$Script data_arrival mars$GetINFO ferriers mars|$Script data_arrival mars$GetINFO mediatek mars|$Script data_arrival mars$GetINFO Sam mars|$Script data_arrival mars$GetINFO vincebib mars|$Script data_arrival mars$GetINFO kochb mars|$Script data_arrival mars$GetINFO Mickael mars|$Script data_arrival mars$GetINFO ronan-c mars|$Script data_arrival mars$GetINFO mars mars|
+Nov 10 14:16:10 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe mars 172.24.185.214:1412|
+Nov 10 14:16:10 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe mars 172.24.185.214:1412|
+Nov 10 14:16:24 PID: 4414 Received command from 172.24.167.224, type 0x8: $RevConnectToMe mars Sam|
+Nov 10 14:16:24 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival mars$RevConnectToMe mars Sam|
+Nov 10 14:16:24 PID: 4414 Received command from 172.24.177.203, type 0x8: $ConnectToMe mars 172.24.177.203:1412|
+Nov 10 14:16:24 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Sam$ConnectToMe mars 172.24.177.203:1412|
+Nov 10 14:18:00 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:18:01 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:18:12 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:18:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:18:26 PID: 4414 Received command from 172.24.185.214, type 0x8: |
+Nov 10 14:18:34 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:18:39 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:19:22 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:20:01 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:20:01 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:20:14 kochb from 172.24.178.225 at socket 7 hung up (No route to host)
+Nov 10 14:20:14 PID: 4413 Received command from forked_process, type 0x80: $Quit kochb|$Script user_disconnected kochb|
+Nov 10 14:22:00 ronan-c from 172.24.185.214 at socket 9 hung up
+Nov 10 14:22:00 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 14:24:01 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:24:01 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:24:10 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:24:20 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:24:20 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:24:39 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:24:55 New connection on socket 7 from user at 172.24.185.214
+Nov 10 14:24:55 PID: 4413 Received command from forked_process, type 0x80: $Script attempted_connection 172.24.185.214|
+Nov 10 14:24:55 PID: 4414 Received command from 172.24.185.214, type 0x2: $Key ¡c∞†–pêÉC‡¡bc°—î5≤∞/%DCN096%//%DCN000%//%DCN096%/a/%DCN000%/!1∞U7C‡¡bÇÅî5≤”p£√∞–/%DCN096%/Ä‡§|$ValidateNick ronan-c|
+Nov 10 14:24:56 Registered user ronan-c logged in from 172.24.185.214
+Nov 10 14:24:56 PID: 4414 Received command from 172.24.185.214, type 0x8: $MyPass jadejade|
+Nov 10 14:24:56 PID: 4413 Received command from forked_process, type 0x80: $Hello ronan-c|$Script data_arrival ronan-c$MyPass jadejade|
+Nov 10 14:24:56 PID: 4414 Received command from 172.24.185.214, type 0x8: $Version 1,0091|$GetNickList|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$249873467899$|
+Nov 10 14:24:56 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$Version 1,0091|$Script data_arrival ronan-c$GetNickList|$Script user_info ronan-c 3602454700 172.24.185.214 8 1,0091|$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$249873467899$|$Script reg_user_connected ronan-c|$Script data_arrival ronan-c$MyINFO $ALL ronan-c M324<++ V:0.674,M:A,H:0/1/0,S:4>$ $LAN(T3)$cousquer@eleves.enpc.fr$249873467899$|
+Nov 10 14:24:56 PID: 4414 Received command from 172.24.185.214, type 0x8: $GetINFO bedouin ronan-c|$GetINFO ferriers ronan-c|$GetINFO mediatek ronan-c|$GetINFO Sam ronan-c|$GetINFO vincebib ronan-c|$GetINFO ronan-c ronan-c|$GetINFO Mickael ronan-c|$GetINFO mars ronan-c|
+Nov 10 14:24:56 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$GetINFO bedouin ronan-c|$Script data_arrival ronan-c$GetINFO ferriers ronan-c|$Script data_arrival ronan-c$GetINFO mediatek ronan-c|$Script data_arrival ronan-c$GetINFO Sam ronan-c|$Script data_arrival ronan-c$GetINFO vincebib ronan-c|$Script data_arrival ronan-c$GetINFO ronan-c ronan-c|$Script data_arrival ronan-c$GetINFO Mickael ronan-c|$Script data_arrival ronan-c$GetINFO mars ronan-c|
+Nov 10 14:24:56 PID: 4414 Received command from 172.24.185.214, type 0x8: $ConnectToMe mars 172.24.185.214:1412|
+Nov 10 14:24:56 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival ronan-c$ConnectToMe mars 172.24.185.214:1412|
+Nov 10 14:25:05 ronan-c from 172.24.185.214 at socket 7 hung up (Connection reset by peer)
+Nov 10 14:25:05 PID: 4413 Received command from forked_process, type 0x80: $Quit ronan-c|$Script user_disconnected ronan-c|
+Nov 10 14:27:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:27:06 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:27:11 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:27:15 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:27:25 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:27:44 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:28:02 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:29:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:29:07 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:29:14 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:29:24 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:29:45 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:30:23 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:31:00 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:31:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:31:08 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:31:31 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:31:34 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:32:05 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:33:01 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:33:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:33:09 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:33:42 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:33:43 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:33:56 PID: 4414 Received command from 172.24.167.224, type 0x8: $RevConnectToMe mars Mickael|
+Nov 10 14:33:56 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival mars$RevConnectToMe mars Mickael|
+Nov 10 14:33:56 PID: 4414 Received command from 172.24.188.187, type 0x8: $ConnectToMe mars 172.24.188.187:1412|
+Nov 10 14:33:56 PID: 4413 Received command from forked_process, type 0x80: $Script data_arrival Mickael$ConnectToMe mars 172.24.188.187:1412|
+Nov 10 14:33:58 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:34:25 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:35:06 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:35:39 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:35:55 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:35:56 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:36:06 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:36:45 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:36:56 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:37:08 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:37:57 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:38:12 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:38:16 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:38:17 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:39:05 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:39:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:39:54 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:39:58 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:40:13 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:40:25 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:40:55 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:41:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:41:25 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:41:59 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:42:26 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:42:35 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:42:52 PID: 4414 Received command from 172.24.177.203, type 0x8: |
+Nov 10 14:43:07 PID: 4414 Received command from 172.24.185.193, type 0x8: |
+Nov 10 14:43:33 PID: 4414 Received command from 172.24.163.235, type 0x8: |
+Nov 10 14:43:45 PID: 4414 Received command from 172.24.0.22, type 0x20: |
+Nov 10 14:44:00 PID: 4414 Received command from 172.24.188.187, type 0x8: |
+Nov 10 14:44:43 PID: 4414 Received command from 172.23.120.111, type 0x8: |
+Nov 10 14:44:44 PID: 4414 Received command from 172.24.167.224, type 0x8: |
+Nov 10 14:45:02 PID: 4414 Received command from 172.23.120.111, type 0x8: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|
+Nov 10 14:45:02 PID: 4413 Received command from forked_process, type 0x80: $MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|$Script data_arrival mediatek$MyINFO $ALL mediatek mediatek P109<oDC V:5.31,M:A,H:0/1/0,S:5>$ $LAN(T3)$kharouba@eleves.enpc.fr$119018204162$|

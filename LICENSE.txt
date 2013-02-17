@@ -1,0 +1,7 @@
+Copyright (C) 2013 Etienne Gaillard de Saint Germain
+Copyright (C) 2013 Alexandre Sarrazin
+Copyright (C) 2013 Raphaël Sivera
+
+
+This project is free software; this content is release under the BSD licence cf opensource.org/licenses/BSD-3-Clause.
+
