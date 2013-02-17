@@ -1,0 +1,43 @@
+netgear prosafe 24ports f5726t
+
+
+MAC switch armoire 1 : 74:44:01:81:93:1D
+
+MAC switch armoire 1 : 74:44:01:81:93:90
+
+MAC switch armoire 1 n°3 : 00:18:4D:D7:5B:1D
+172.24.0.113
+
+MAC switch armoire 1 : 00:18:4D:D7:5B:17
+
+MAC switch armoire 2 : 20:4E:7F:8B:67:02
+
+MAC switch armoire 2 : 00:18:4D:D5:46:52
+
+MAC switch armoire 3 : 74:44:01:81:93:95
+
+MAC switch armoire 3 : 74:44:01:81:93:97
+
+MAC switch armoire 3 : 00:1E:2A:DB:DC:3C
+
+MAC switch armoire 4 n°1 : 00:1B:2F:B0:15:54
+172.24.156.248
+
+MAC switch armoire 4 n°2 : 00:18:4D:D4:35:E4
+172.24.0.142
+
+MAC switch armoire 4 n°3 : 00:1E:2A:DB:BD:70
+172.24.0.143
+
+MAC switch armoire 4 n°4 : 00:18:4D:2E:89:54
+172.24.0.144
+
+172.24.0.111
+172.24.0.112
+172.24.0.114
+172.24.0.121
+172.24.0.122
+172.24.0.131
+172.24.0.132
+172.24.0.133
+
