@@ -105,5 +105,14 @@ def tests_outils_date():
         print d," -> ",time2str(str2time(d))
     print 'time of EPOCH', datetime2time(EPOCH)
 
+    print 'NOW : ', time.time(), NOW()
+
+
 if __name__=='__main__':
     tests_outils_date()
+
+
+# NOW en entier
+
+def NOW():
+    return datetime2time(datetime.datetime.now())

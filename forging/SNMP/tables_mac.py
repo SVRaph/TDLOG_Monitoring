@@ -25,13 +25,18 @@ def lance_requete(IPswitch='172.24.0.103',File='table.txt'):
     subprocess.call([cmd])
 
 #initialise la base
-def init_base(nom):
-    ''' nomme la base TableMAC_@IPswitch_@NOW(int).db
-    La BDD contient la table mac qui contient mac/port'''
+def init_base(nom='TablesMAC.db'):
+    ''' nomme la base TablesMAC.db
+    La BDD contient la table mac qui contient les INT : date/IPswitch/mac/port'''
 
+    test=subprocess.call(["ls",nom])
+    if test==0:
+        print "la base existe deja"
+        return 0
+    else:
     conn=sqlite3.connect(nom)
     try:
-        conn.execute('CREATE TABLE table_mac(mac INT,port INT)')
+        conn.execute('CREATE TABLE table_mac(date INT,switch INT, mac INT,port INT)')
         conn.commit()
         conn.close()
         print "la base a ete creee" 
@@ -45,9 +50,11 @@ def init_base(nom):
 #iso.3.6.1.2.1.17.4.3.1.2.0.10.87.18.205.250 = INTEGER: 25
 #et crée une bdd (cf init_base)
 def lit_table(IPswitch,File='table.txt'):
-    nombdd="TableMAC_%s_%d.db" % (IPswitch,outils_dates.NOW())
+    nowINT=int(outils_dates.NOW())
+    ipINT=int(netaddr.IPAddress(IPswitch))
+    
     init_base(nombdd)
-    conn=sqlite3.connect(nombdd)
+    conn=sqlite3.connect("TablesMAC.db")
     curs=conn.cursor()
     with open(File,'r') as fichier:
         for ligne in fichier.readlines():
@@ -64,7 +71,7 @@ def lit_table(IPswitch,File='table.txt'):
                 mac *= 256
                 mac += int(x)
             #ajout dans la BDD
-            curs.execute('INSERT INTO table_mac VALUES (?,?)',(mac,port))
+            curs.execute('INSERT INTO table_mac VALUES (?,?,?,?)',(nowINT,ipINT,mac,port))
     conn.commit()
     conn.close()
     return nombdd
@@ -98,5 +105,5 @@ def tests(filetest):
 
 
 if __name__=='__main__':
-    #execute(IPs_HP)
-    tests('table_test.txt')
+    execute(IPs_HP)
+    #tests('table_test.txt')
