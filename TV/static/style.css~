@@ -1,0 +1,153 @@
+html {
+	height:100%;
+}
+
+body {
+	height:100%;
+	margin : 0px;
+	font-family : Calibri;
+}
+
+table.full {
+	border-collapse : collapse;
+}
+
+table.full td {
+	padding : 0px;
+	vertical-align : top;
+}
+
+/* --- header ----------------------------------------------------------------------------------- */
+
+td#header {
+	color : #fed;
+	font-size : 13pt;
+	height : 100px;
+	padding : 0px 0px 0px 80px;
+}
+
+td#header div {
+	color : #fa0;
+	font-size : 20pt;
+	font-weight : bold;
+	letter-spacing : 1px;
+	text-indent : -40px;
+}
+
+/* --- menu ------------------------------------------------------------------------------------- */
+
+td#menu div {
+	color : #fa0;
+	cursor : pointer;
+	font-size : 14pt;
+	margin : 20px 5px 0px 5px;
+}
+
+td#menu a {
+	color : #ffa;
+	display : block;
+	padding : 0px 5px;
+	text-indent : 15px;
+	text-decoration : none;
+}
+
+td#menu a:hover {
+	background-color : #006550;
+}
+
+/* --- pannel ----------------------------------------------------------------------------------- */
+
+div#pannel {
+	position : absolute;
+	right : 0px;
+	top : -1000px;
+}
+
+body > div#pannel {
+	position : fixed;
+}
+
+div#pannel th {
+	background-color : #79a399;
+	color : #fff;
+	font-size : 11pt;
+	line-height : 16px;
+	padding : 5px;
+	vertical-align : top;
+}
+
+div#pannel  div {
+	color : #fff;
+	display : none;
+	font-size : 10pt;
+	width : 145px;
+}
+
+div#pannel a {
+	color : #fff;
+	display : block;
+	font-weight:bold;
+	padding : 3px 13px;
+	text-decoration : none;
+	text-indent : -10px;
+}
+
+div#pannel a:hover {
+	background-color:#79a399;
+}
+
+/* --- corpus ----------------------------------------------------------------------------------- */
+
+td#corpus {
+	background : url('res/c3l2.png') no-repeat center fixed;
+	padding-bottom : 15px;
+	padding-right : 75px;
+}
+
+td#corpus div#header_page {
+	border-bottom : 2px dashed #7fbc79;
+	font-family : sylfaen;
+	font-size : 11pt;
+	font-style : italic;
+	padding : 0px 0px 20px 50px;
+	text-align : center;
+}
+
+td#corpus div.code {
+	font-family : monospace;
+	background-color : #d5d5d5;
+	padding : 5px;
+}
+
+td#corpus h1 {
+	border-bottom : 3px solid #7fbc79;
+	padding : 5px 0px 15px 50px;
+	text-align:center;
+	margin-right : 200px;
+}
+
+td#corpus hr {
+	color : #fff;
+	border : 0px;
+	border-bottom : 2px solid #7fbc79;
+	margin-top : 30px;
+}
+
+td#corpus img {
+	padding : 7px;
+}
+
+td#corpus input {
+	border : solid 1px #789;
+}
+
+td#corpus li {
+	text-align : justify;
+	padding-top : 3px;
+	padding-bottom : 3px;
+}
+
+td#corpus p {
+	text-align : justify;
+	text-indent : 50px;
+}/* --- lists ----------------------------------------------------------------------------------- */ul#document_adobe {list-style-image : url('org/res/IconeAdobeReader02.jpg') ;}

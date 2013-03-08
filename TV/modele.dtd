@@ -1,0 +1,6 @@
+<!ELEMENT programme (description,chaine,debut,duree)>
+
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT chaine (#PCDATA)>
+<!ELEMENT debut (#PCDATA)>
+<!ELEMENT duree (#PCDATA)>
